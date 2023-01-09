@@ -21,7 +21,7 @@
     "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "firebase": "^7.15.3",
-    "luxon": "^1.21.3",
+    "luxon": "^2.5.2",
     "v-emoji-picker": "^2.2.0",
     "vue": "^2.6.10",
     "vue-material-design-icons": "^4.4.0",
